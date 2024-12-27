@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Progress Bar WP
- * Version: 1.4.9
+ * Version: 1.5.0
  * Description:  Progress bar plugin will help you to add skill bar graph or percentage bar on your website. 
  * Author: wpshopmart
  * Author URI: https://www.wpshopmart.com

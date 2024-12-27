@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags: progress bar, skill bar, animated skillbar, animated progress bar,  percentage bar
 Requires at least: 5.0
-Tested up to: 6.6
-Stable tag: 1.4.9
+Tested up to: 6.7.1
+Stable tag: 1.5.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,10 +102,10 @@ https://youtu.be/ZwwCIf9XPJk
 
 
 == Installation ==
-1. From “add new plugin” Upload the Progress Bar WP Plugin zipped file to install it.
+1. From ï¿½add new pluginï¿½ Upload the Progress Bar WP Plugin zipped file to install it.
 2. Activate the plugin using the 'Plugins' menu in your WordPress admin dashboard.
-3. You can setup the progress bar WP from the “Appearances” “Widgets” menu.
-4. You can generate a shortcode to insert a progress bar into a Post or Page by clicking on the “Progress Bar” setting in the menu.
+3. You can setup the progress bar WP from the ï¿½Appearancesï¿½ ï¿½Widgetsï¿½ menu.
+4. You can generate a shortcode to insert a progress bar into a Post or Page by clicking on the ï¿½Progress Barï¿½ setting in the menu.
 
 
 
@@ -137,6 +137,9 @@ Just create progress bar and after publish it copy shortcode and just paste this
 
 
 == Changelog ==
+
+= 1.5.0 =
+* compatible with wordpress 6.7.1
 
 = 1.4.9 =
 * compatible with wordpress 6.6
